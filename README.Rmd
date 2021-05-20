@@ -1,0 +1,14 @@
+---
+title: "README"
+output: html_document
+---
+```{r}
+x<-100
+#some code
+```
+
+
+```{r}
+#more code
+y<-300
+```
